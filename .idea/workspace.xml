@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17028e84-2d51-4e5f-bc7f-4d5e0d5fd3a2" name="Changes" comment="F Version uploaded">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/basis/Club.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/basis/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/generate/Core2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/generate/Organize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/generate/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/input/CollectionsClubs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/input/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/input/santander811matchesResult.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/printer/FileCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/letscode/reader/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/letscode/basis/Club$ClubBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/letscode/basis/Match$GoalsCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/letscode/basis/Match$MatchBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/letscode/basis/Match$clubCompare.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="24NkPYWPsWOfOjqo4f7x9rK4dyi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\inst_mha\IdeaProjects\Footbal_Stats\src\main\java\com\input" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Footbal_Stats" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17028e84-2d51-4e5f-bc7f-4d5e0d5fd3a2" name="Changes" comment="" />
+      <changelist id="" name="New changelist" comment="" />
+      <created>1643478420856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643478420856</updated>
+      <workItem from="1643478423510" duration="10046000" />
+      <workItem from="1643488879687" duration="27627000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Version uploaded">
+      <created>1644203312885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644203312886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Version uploaded" />
+    <MESSAGE value="F Version uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="F Version uploaded" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="imported.toArray()[8]" language="JAVA" />
+        <watch expression="history.get(1)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
